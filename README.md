@@ -1,5 +1,5 @@
 ## Programiranje-1 (projekt-pri-programiranju-1)
-Tukaj bom postopoma nalagal svoj projekt pri Programiranju 1 iz analize podatkov, in sicer bom naredil analizo iz 25 - sezon biatlona, končnem rezultatu v svetovnem pokalu na koncu vsake sezone.
+Tukaj bom postopoma nalagal svoj projekt pri Programiranju 1 iz analize podatkov, in sicer bom naredil analizo iz 25 - sezon biatlona (https://www.realbiathlon.com/seasons.html), končnem rezultatu v svetovnem pokalu na koncu vsake sezone.
 
 
 
