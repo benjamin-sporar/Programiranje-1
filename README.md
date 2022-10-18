@@ -19,4 +19,4 @@ Hipoteze:
 
 -> Kako je z uspešnostjo posameznih držav(katere države so "najbolj" uspešne)?
 
--> Kako je s konsistenco športnikov (in tudi držav)?
+-> Povezava med državo in uspešnimi športniki(ali lahko iz uspehov športnika sklepamo iz katere države je?)
