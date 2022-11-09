@@ -1,3 +1,5 @@
+leto|mesto| država|vrsta iger|trajanje|št NOK|št športov|št. disciplin|št. vseh športnikov|št. slo. športnikov|splena stan MOK|slo spletna stran
+------------------------------------------------------------------------------------------------------------------------------------------------
 (1896, 'Atene', 'Grčija', 'poletne', '6.4.-15.4.', 14, 10, 43, '241', 0, 'https://www.olympic.org/athens-1896', 'https://www.olympic.si/dogodek/198')
 (1900, 'Pariz', 'Francija', 'poletne', '14.5.-28.10.', 24, 20, 82, '997', 0, 'https://www.olympic.org/paris-1900', 'https://www.olympic.si/dogodek/199')
 (1904, 'St.Louis', 'ZDA', 'poletne', '1.7.-23.11.', 12, 16, 91, '651', 0, 'https://www.olympic.org/st-louis-1904', 'https://www.olympic.si/dogodek/200')
