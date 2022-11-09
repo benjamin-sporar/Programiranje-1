@@ -1,22 +1,23 @@
 ## Programiranje-1 (projekt-pri-programiranju-1)
-Tukaj bom postopoma nalagal svoj projekt pri Programiranju 1 iz analize podatkov, in sicer bom naredil analizo iz 25 - sezon biatlona (https://www.realbiathlon.com/seasons.html), končnem rezultatu v svetovnem pokalu na koncu vsake sezone.
+Tukaj bom postopoma nalagal svoj projekt pri Programiranju 1 iz analize podatkov, in sicer bom naredil analizo iz rezultatov olimpijskih iger (https://www.olympic.si/olimpijski-wiki/olimpijske-igre), začenši z letom 1896.
 
 
 
 Zajel bom:
 
--> 30 najbolj uspešnih udeležencev vsake sezone
+-> podatke o rezultatih 51 olimpijskih iger (zimskih in poletnih)
 
--> državo, pod okriljem katere so tekmovali
+-> št. držav udeleženk, št. disciplin
 
--> posamezne športnike, in v katerih obdobjih so nastopali in pa njihove dosežke oziroma splošne uvrstitve
+-> št. vseh in slovenskih šprtnic/kov, ter razporeditev po spoloma(kjer bo to mogoče)
 
--> uspešnost športnika po disciplinah
+-> uvrstitve slovenskih športnic/kov na posameznih igrah
 
 
 
-Hipoteze:
 
--> Kako je z uspešnostjo posameznih držav(katere države so "najbolj" uspešne)?
+Vprašanja:
 
--> Povezava med državo in uspešnimi športniki(ali lahko iz uspehov športnika sklepamo iz katere države je?)
+-> Kako je z uspešnostjo Slovenk/cev na poletnih, oziroma, na zimskih igrah in primerjava teh dveh rezultatov?
+
+-> Izbor nekaj najbolj donosnih športov za Slovence in Slovenke, sodeč po medaljah.
